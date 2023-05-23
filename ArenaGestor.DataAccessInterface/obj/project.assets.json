@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ArenaGestor.BusinessHelpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ArenaGestor.BusinessHelpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArenaGestor.BusinessHelpers.dll": {}
+        }
+      },
+      "ArenaGestor.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ArenaGestor.BusinessHelpers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ArenaGestor.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArenaGestor.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArenaGestor.BusinessHelpers/1.0.0": {
+      "type": "project",
+      "path": "../ArenaGestor.BusinessHelpers/ArenaGestor.BusinessHelpers.csproj",
+      "msbuildProject": "../ArenaGestor.BusinessHelpers/ArenaGestor.BusinessHelpers.csproj"
+    },
+    "ArenaGestor.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ArenaGestor.Domain/ArenaGestor.Domain.csproj",
+      "msbuildProject": "../ArenaGestor.Domain/ArenaGestor.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ArenaGestor.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\barra\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.DataAccessInterface\\ArenaGestor.DataAccessInterface.csproj",
+      "projectName": "ArenaGestor.DataAccessInterface",
+      "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.DataAccessInterface\\ArenaGestor.DataAccessInterface.csproj",
+      "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.DataAccessInterface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Domain\\ArenaGestor.Domain.csproj": {
+              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Domain\\ArenaGestor.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

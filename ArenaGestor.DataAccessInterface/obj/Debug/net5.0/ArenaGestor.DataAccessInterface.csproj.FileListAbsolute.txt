@@ -1,0 +1,17 @@
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\bin\Debug\net5.0\ArenaGestor.DataAccessInterface.deps.json
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\bin\Debug\net5.0\ArenaGestor.DataAccessInterface.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\bin\Debug\net5.0\ArenaGestor.DataAccessInterface.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\bin\Debug\net5.0\ArenaGestor.Domain.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\bin\Debug\net5.0\ArenaGestor.Domain.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ArenaGestor.DataAccessInterface.csproj.AssemblyReference.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ArenaGestor.DataAccessInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ArenaGestor.DataAccessInterface.AssemblyInfoInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ArenaGestor.DataAccessInterface.AssemblyInfo.cs
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ArenaGestor.DataAccessInterface.csproj.CoreCompileInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ArenaGestor.DataAccessInterface.csproj.CopyComplete
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ArenaGestor.DataAccessInterface.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\refint\ArenaGestor.DataAccessInterface.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ArenaGestor.DataAccessInterface.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.DataAccessInterface\obj\Debug\net5.0\ref\ArenaGestor.DataAccessInterface.dll

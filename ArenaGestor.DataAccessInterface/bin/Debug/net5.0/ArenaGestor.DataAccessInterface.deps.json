@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ArenaGestor.DataAccessInterface/1.0.0": {
+        "dependencies": {
+          "ArenaGestor.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ArenaGestor.DataAccessInterface.dll": {}
+        }
+      },
+      "ArenaGestor.BusinessHelpers/1.0.0": {
+        "runtime": {
+          "ArenaGestor.BusinessHelpers.dll": {}
+        }
+      },
+      "ArenaGestor.Domain/1.0.0": {
+        "dependencies": {
+          "ArenaGestor.BusinessHelpers": "1.0.0"
+        },
+        "runtime": {
+          "ArenaGestor.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArenaGestor.DataAccessInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArenaGestor.BusinessHelpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArenaGestor.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

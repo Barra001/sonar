@@ -1,0 +1,17 @@
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\bin\Release\net5.0\ArenaGestor.APIContracts.deps.json
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\bin\Release\net5.0\ArenaGestor.APIContracts.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\bin\Release\net5.0\ArenaGestor.APIContracts.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\bin\Release\net5.0\ArenaGestor.BusinessHelpers.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\bin\Release\net5.0\ArenaGestor.Domain.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\bin\Release\net5.0\ArenaGestor.Domain.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\bin\Release\net5.0\ArenaGestor.BusinessHelpers.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ArenaGestor.APIContracts.csproj.AssemblyReference.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ArenaGestor.APIContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ArenaGestor.APIContracts.AssemblyInfoInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ArenaGestor.APIContracts.AssemblyInfo.cs
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ArenaGestor.APIContracts.csproj.CoreCompileInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ArenaGestor.APIContracts.csproj.CopyComplete
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ArenaGestor.APIContracts.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\refint\ArenaGestor.APIContracts.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ArenaGestor.APIContracts.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.APIContracts\obj\Release\net5.0\ref\ArenaGestor.APIContracts.dll

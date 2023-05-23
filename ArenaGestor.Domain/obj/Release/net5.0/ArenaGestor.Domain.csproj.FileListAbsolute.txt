@@ -1,0 +1,15 @@
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\bin\Release\net5.0\ArenaGestor.Domain.deps.json
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\bin\Release\net5.0\ArenaGestor.Domain.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\bin\Release\net5.0\ArenaGestor.Domain.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\bin\Release\net5.0\ArenaGestor.BusinessHelpers.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\bin\Release\net5.0\ArenaGestor.BusinessHelpers.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ArenaGestor.Domain.csproj.AssemblyReference.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ArenaGestor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ArenaGestor.Domain.AssemblyInfoInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ArenaGestor.Domain.AssemblyInfo.cs
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ArenaGestor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ArenaGestor.Domain.csproj.CopyComplete
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ArenaGestor.Domain.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\refint\ArenaGestor.Domain.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ArenaGestor.Domain.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Domain\obj\Release\net5.0\ref\ArenaGestor.Domain.dll

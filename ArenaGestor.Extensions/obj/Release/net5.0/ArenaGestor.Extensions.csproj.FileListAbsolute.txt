@@ -1,0 +1,12 @@
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\bin\Release\net5.0\ArenaGestor.Extensions.deps.json
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\bin\Release\net5.0\ArenaGestor.Extensions.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\bin\Release\net5.0\ArenaGestor.Extensions.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\ArenaGestor.Extensions.csproj.AssemblyReference.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\ArenaGestor.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\ArenaGestor.Extensions.AssemblyInfoInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\ArenaGestor.Extensions.AssemblyInfo.cs
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\ArenaGestor.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\ArenaGestor.Extensions.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\refint\ArenaGestor.Extensions.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\ArenaGestor.Extensions.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Extensions\obj\Release\net5.0\ref\ArenaGestor.Extensions.dll

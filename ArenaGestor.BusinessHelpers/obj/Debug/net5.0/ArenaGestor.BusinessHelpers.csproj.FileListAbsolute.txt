@@ -1,0 +1,12 @@
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.deps.json
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\ArenaGestor.BusinessHelpers.csproj.AssemblyReference.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\ArenaGestor.BusinessHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\ArenaGestor.BusinessHelpers.AssemblyInfoInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\ArenaGestor.BusinessHelpers.AssemblyInfo.cs
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\ArenaGestor.BusinessHelpers.csproj.CoreCompileInputs.cache
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\ArenaGestor.BusinessHelpers.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\refint\ArenaGestor.BusinessHelpers.dll
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\ArenaGestor.BusinessHelpers.pdb
+C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessHelpers\obj\Debug\net5.0\ref\ArenaGestor.BusinessHelpers.dll

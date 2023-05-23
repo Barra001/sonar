@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.API\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-04-28T20:20:34.8575458Z;True|2023-04-28T10:44:17.7338381-03:00;True|2023-04-28T10:33:29.8041474-03:00;True|2023-04-28T10:29:55.8047378-03:00;True|2023-04-28T10:25:34.3518764-03:00;True|2023-04-28T10:07:01.8530944-03:00;False|2023-04-28T10:06:16.6320250-03:00;True|2023-04-28T09:49:45.9825197-03:00;True|2023-04-28T09:14:29.0148868-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
