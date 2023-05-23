@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O1wog9YV/MtLWfLGUmjHNCzbjATwtm0oZxnZrD4NPsuCEjt7b6+7+jSuWejrSKZAzJHzCRzUJm0FXd7/Uqv7rw==",
+  "dgSpecHash": "CpI3AokjaZuTCLSQtdHgQ8PNaHKfC8ekZ0jcyOmz128vlonAnenJUsNe6EY7srkZK3SZGfeVbdBu7KVzqDf35w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

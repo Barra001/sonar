@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LWqqPMoYQprHs1KQLfV5v7FqQItvoPkv1Pjo3TnGCAwrLqLfYrHmbdNB2hDkHJeQMvk/4N6iFmarPo/W+NOXnQ==",
+  "dgSpecHash": "XRJ1KSPeXHNK75NZDi+RThiAz9+tQwaQxr7iU2naIy00RtgeuuXpi5VUEpxN8MpMynocyFkR3Dkblx/GOtIFoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.DataAccess\\ArenaGestor.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.DataAccess\\ArenaGestor.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

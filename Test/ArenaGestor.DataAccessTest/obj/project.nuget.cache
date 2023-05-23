@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKPiKstcFQe2BX4hnxKSd00eK/wT8CFkgJkUbO/lBNfp+WlirL6rIzMkM4HZ/nHPJ0Ge7MP9VnOmhhaUa0HgEQ==",
+  "dgSpecHash": "gSlFuMJOTvHoW6Q49bJutsZg11Avn+CUKwUWwgg03NgpKwIppmG+R3EASX9WpciwkpNGRgnAko3wmAiUL+D4LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\Test\\ArenaGestor.DataAccessTest\\ArenaGestor.DataAccessTest.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\Test\\ArenaGestor.DataAccessTest\\ArenaGestor.DataAccessTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

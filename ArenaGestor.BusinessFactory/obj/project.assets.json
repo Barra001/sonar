@@ -4358,11 +4358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj",
+      "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj",
       "projectName": "ArenaGestor.BusinessFactory",
-      "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj",
+      "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj",
       "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.BusinessFactory\\obj\\",
+      "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.BusinessFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4379,11 +4379,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.BusinessInterface\\ArenaGestor.BusinessInterface.csproj": {
-              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.BusinessInterface\\ArenaGestor.BusinessInterface.csproj"
+            "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.BusinessInterface\\ArenaGestor.BusinessInterface.csproj": {
+              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.BusinessInterface\\ArenaGestor.BusinessInterface.csproj"
             },
-            "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Business\\ArenaGestor.Business.csproj": {
-              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Business\\ArenaGestor.Business.csproj"
+            "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Business\\ArenaGestor.Business.csproj": {
+              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Business\\ArenaGestor.Business.csproj"
             }
           }
         }

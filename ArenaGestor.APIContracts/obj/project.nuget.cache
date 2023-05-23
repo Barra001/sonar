@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMecOfxYimvRL29fd0Gu0wNwKPSlBwY8Tssif0rn4F0365OuEAsJPcUBTawiUzJYsVfyvqiEtAVDAPO/dSjBjg==",
+  "dgSpecHash": "tIo8v5izO/9JJg5xkAJoeGuVhZttn9K17LJR7Ff8KNDaAX5WHnQQ9YCKl6EFeoZzYsF/ZmdQAqvLv8JeG6wzMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.APIContracts\\ArenaGestor.APIContracts.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.APIContracts\\ArenaGestor.APIContracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

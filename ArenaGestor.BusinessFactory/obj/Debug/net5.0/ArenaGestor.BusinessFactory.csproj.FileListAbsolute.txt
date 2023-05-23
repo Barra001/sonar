@@ -23,3 +23,30 @@ C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Oblig
 C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessFactory\obj\Debug\net5.0\refint\ArenaGestor.BusinessFactory.dll
 C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.pdb
 C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ref\ArenaGestor.BusinessFactory.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.BusinessFactory.deps.json
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.BusinessFactory.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.BusinessFactory.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.APIContracts.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.Business.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.BusinessInterface.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.DataAccessInterface.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.Domain.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.Extensions.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.BusinessInterface.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.Business.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.APIContracts.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.DataAccessInterface.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.Domain.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\bin\Debug\net5.0\ArenaGestor.Extensions.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.csproj.AssemblyReference.cache
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.AssemblyInfoInputs.cache
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.AssemblyInfo.cs
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.csproj.CoreCompileInputs.cache
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.csproj.CopyComplete
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\refint\ArenaGestor.BusinessFactory.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ArenaGestor.BusinessFactory.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.BusinessFactory\obj\Debug\net5.0\ref\ArenaGestor.BusinessFactory.dll

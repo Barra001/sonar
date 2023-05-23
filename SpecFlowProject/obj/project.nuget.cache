@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CioBwc5jjvzKLe3PZ3DcaNMQKaA+41YtaFi6cM7fJ/x1VBVUjS5sQuDmf5Xb7h3oviccKlBeRBHDoT3rdOuQLA==",
+  "dgSpecHash": "jYJOGwnpQ/tmYpPbeSpEHhbRb0UPxrrVPbfYPJMzayQhLfPbannY6Dkcy6nRWTcPj9pKIj5vvP+K8x4GIBgJLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\SpecFlowProject\\SpecFlowProject.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\SpecFlowProject\\SpecFlowProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",

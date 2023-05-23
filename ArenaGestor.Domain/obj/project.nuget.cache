@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNagMEj0XHhRBaTJM3v8Zvp7pyWQ53ScYWm1XKIgxhwJuPk3/an27CJ28J9uzVttm3C8RP+RNPQOETC9UxJ63w==",
+  "dgSpecHash": "/7+x8EKBhia+8cEFTE4PmOBnms+UARy3a3j0Y3hmN1mUGoK3dZlv4G2xiqvgC2dJ6gvXJQClXmKeFOHhv5g93A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Domain\\ArenaGestor.Domain.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Domain\\ArenaGestor.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

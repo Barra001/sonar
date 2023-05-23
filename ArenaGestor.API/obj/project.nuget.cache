@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X22RHlGNtkBu63pn3/PgN4Cm88YPHY3ZHdy1rHTExRcA/0mZxaPX3XdemH79a61Era3kA7TVmRJFd7mazZsgLg==",
+  "dgSpecHash": "kbUuiFMizbzDIb6wFwuxGuswQq+2nRnshpcD18Jjmn4D9IykD3winN45dA3DxbrvKvvY0gRFL9rmSyMXhyk7sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.API\\ArenaGestor.API.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.API\\ArenaGestor.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

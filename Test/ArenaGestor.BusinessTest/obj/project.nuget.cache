@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B7HAo3+ASrp43xBpWPYoqZL9/KUgDnig+bZqwezUUbT12CXFX8jr2ztUxxZFhxIrWOcHVUJ1Yp/dKz9eLgTdMw==",
+  "dgSpecHash": "fu0dfVbNnB7JVrAw08VzLRc6rdD0ATdZEjHzMwPH8kakJc1yQB7RxVd1u3opKcQNL4P95qn7TedL9XyM9OYNHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\Test\\ArenaGestor.BusinessTest\\ArenaGestor.BusinessTest.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\Test\\ArenaGestor.BusinessTest\\ArenaGestor.BusinessTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

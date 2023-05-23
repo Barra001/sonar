@@ -21,3 +21,28 @@ C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Oblig
 C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Business\obj\Debug\net5.0\refint\ArenaGestor.Business.dll
 C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.pdb
 C:\Users\barra\Documents\Trabajo\proyecto-devops-barrabino-necasek-palacio\Obligatorio\codigo\ArenaGestor\ArenaGestor.Business\obj\Debug\net5.0\ref\ArenaGestor.Business.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.Business.deps.json
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.Business.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.Business.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.APIContracts.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.BusinessInterface.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.DataAccessInterface.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.Domain.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.Extensions.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.APIContracts.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.BusinessHelpers.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.BusinessInterface.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.DataAccessInterface.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.Extensions.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\bin\Debug\net5.0\ArenaGestor.Domain.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.csproj.AssemblyReference.cache
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.AssemblyInfoInputs.cache
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.AssemblyInfo.cs
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.csproj.CoreCompileInputs.cache
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.csproj.CopyComplete
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\refint\ArenaGestor.Business.dll
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ArenaGestor.Business.pdb
+C:\Users\barra\Documents\Trabajo\sonar cloud\ArenaGestor.Business\obj\Debug\net5.0\ref\ArenaGestor.Business.dll

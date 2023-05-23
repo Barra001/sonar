@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Extensions\\ArenaGestor.Extensions.csproj": {}
+    "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Extensions\\ArenaGestor.Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Extensions\\ArenaGestor.Extensions.csproj": {
+    "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Extensions\\ArenaGestor.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Extensions\\ArenaGestor.Extensions.csproj",
+        "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Extensions\\ArenaGestor.Extensions.csproj",
         "projectName": "ArenaGestor.Extensions",
-        "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Extensions\\ArenaGestor.Extensions.csproj",
+        "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Extensions\\ArenaGestor.Extensions.csproj",
         "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Extensions\\obj\\",
+        "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config",

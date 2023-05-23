@@ -1875,6 +1875,7 @@
       },
       "ArenaGestor.Business/1.0.0": {
         "dependencies": {
+          "ArenaGestor.APIContracts": "1.0.0",
           "ArenaGestor.BusinessHelpers": "1.0.0",
           "ArenaGestor.BusinessInterface": "1.0.0",
           "ArenaGestor.DataAccessInterface": "1.0.0",

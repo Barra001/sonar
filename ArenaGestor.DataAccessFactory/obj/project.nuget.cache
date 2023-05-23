@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C7vqs8m5cw8bfRPmF49Rr0WNFCYqkUjPmk/oaWYn4IpnHAXnOqoLaPTjIm6CFVzoLZ6OlJ3ZA00oc7Kg8D6oaw==",
+  "dgSpecHash": "x3lENSbsCROk7coeT6E2AWyet3VooFkoJ8yljsGORlSgj6SmwDAMI7tK9mWMzCfbfXeYuRAGZqHi2jkIIZZN9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.DataAccessFactory\\ArenaGestor.DataAccessFactory.csproj",
+  "projectFilePath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.DataAccessFactory\\ArenaGestor.DataAccessFactory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\barra\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

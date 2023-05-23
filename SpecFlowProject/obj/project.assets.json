@@ -8268,11 +8268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\SpecFlowProject\\SpecFlowProject.csproj",
+      "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\SpecFlowProject\\SpecFlowProject.csproj",
       "projectName": "SpecFlowProject",
-      "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\SpecFlowProject\\SpecFlowProject.csproj",
+      "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\SpecFlowProject\\SpecFlowProject.csproj",
       "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\SpecFlowProject\\obj\\",
+      "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\SpecFlowProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8289,11 +8289,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Business\\ArenaGestor.Business.csproj": {
-              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Business\\ArenaGestor.Business.csproj"
+            "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Business\\ArenaGestor.Business.csproj": {
+              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Business\\ArenaGestor.Business.csproj"
             },
-            "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Domain\\ArenaGestor.Domain.csproj": {
-              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.Domain\\ArenaGestor.Domain.csproj"
+            "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Domain\\ArenaGestor.Domain.csproj": {
+              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.Domain\\ArenaGestor.Domain.csproj"
             }
           }
         }

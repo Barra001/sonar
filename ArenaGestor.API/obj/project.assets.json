@@ -7528,11 +7528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.API\\ArenaGestor.API.csproj",
+      "projectUniqueName": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.API\\ArenaGestor.API.csproj",
       "projectName": "ArenaGestor.API",
-      "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.API\\ArenaGestor.API.csproj",
+      "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.API\\ArenaGestor.API.csproj",
       "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.API\\obj\\",
+      "outputPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7549,14 +7549,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.APIContracts\\ArenaGestor.APIContracts.csproj": {
-              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.APIContracts\\ArenaGestor.APIContracts.csproj"
+            "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.APIContracts\\ArenaGestor.APIContracts.csproj": {
+              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.APIContracts\\ArenaGestor.APIContracts.csproj"
             },
-            "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj": {
-              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj"
+            "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj": {
+              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.BusinessFactory\\ArenaGestor.BusinessFactory.csproj"
             },
-            "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.DataAccessFactory\\ArenaGestor.DataAccessFactory.csproj": {
-              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\proyecto-devops-barrabino-necasek-palacio\\Obligatorio\\codigo\\ArenaGestor\\ArenaGestor.DataAccessFactory\\ArenaGestor.DataAccessFactory.csproj"
+            "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.DataAccessFactory\\ArenaGestor.DataAccessFactory.csproj": {
+              "projectPath": "C:\\Users\\barra\\Documents\\Trabajo\\sonar cloud\\ArenaGestor.DataAccessFactory\\ArenaGestor.DataAccessFactory.csproj"
             }
           }
         }
